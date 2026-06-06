@@ -152,16 +152,6 @@ $ uptime --current
   6 yrs served  ·  200+ sites secured  ·  1 book shipped  ·  0 degrees required
 ```
 
-<br/>
-
-```bash
-$ git log --stat --author="MathewFigueroa"
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=MathewFigueroa&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff" alt="GitHub Stats" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewFigueroa&layout=compact&hide_border=true&bg_color=0A0E1A&title_color=00C9A7&text_color=ffffff" alt="Top Languages" height="150" />
-
 </div>
 
 ---
