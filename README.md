@@ -76,6 +76,20 @@ My lab interests include:
 
 ## `> ls ./projects`
 
+### 💡 [HueHaven](https://github.com/MathewFigueroa/HueHaven)
+
+**A native Mac home for your Philips Hue lights.**
+
+A free, open-source SwiftUI app with illustrated rooms, personal scenes, and quick lighting controls from the menu bar. Commands go directly to your Hue Bridge over the local network.
+
+Built for macOS 14 or later on Apple silicon and Intel. Currently available as a preview release.
+
+[Explore HueHaven](https://github.com/MathewFigueroa/HueHaven) · [Download the latest release](https://github.com/MathewFigueroa/HueHaven/releases/latest)
+
+`SwiftUI` `macOS` `Philips Hue` `Local Control` `Open Source`
+
+---
+
 ### 🎮 [Rock Bottom RPG](https://github.com/MathewFigueroa/rockbottom-rpg)
 
 **An AI-native role-playing game built around emergent storytelling.**
