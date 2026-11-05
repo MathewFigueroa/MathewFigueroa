@@ -1,171 +1,225 @@
-<!--
-  GitHub Profile README  —  MathewFigueroa
-  Repo:  MathewFigueroa/MathewFigueroa   (public, README.md at root)
--->
-
 <div align="center">
 
-```
- __  __       _   _   _                  _____ _                                
-|  \/  | __ _| |_| |_| |__   _____      |  ___(_) __ _ _   _  ___ _ __ ___   __ _ 
-| |\/| |/ _` | __| __| '_ \ / _ \ \ /\ / / |_  | |/ _` | | | |/ _ \ '__/ _ \ / _` |
-| |  | | (_| | |_| |_| | | |  __/\ V  V /|  _| | | (_| | |_| |  __/ | | (_) | (_| |
-|_|  |_|\__,_|\__|\__|_| |_|\___| \_/\_/ |_|   |_|\__, |\__,_|\___|_|  \___/ \__,_|
-                                                  |___/                            
-      [ cybersecurity engineer ]  ::  [ founder ]  ::  [ army veteran ]
-```
+# Matt Figueroa
 
-`> whoami`
+### Security Engineer · AI Builder · Founder
+
+**U.S. Army Veteran | Orlando, Florida**
+
+*Building at the intersection of security, artificial intelligence, and creativity.*
+
+[![Website](https://img.shields.io/badge/CRESTVALE-WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://crestvale.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewfigueroa)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathewFigueroa)
 
 </div>
 
 ---
 
-```bash
-$ cat about_me.txt
-```
+## `> whoami`
 
-I'm **Matt Figueroa** — Lead Cybersecurity Engineer at **Signature Aviation**, where I
-run security operations across a global network of **200+ aviation locations**. By night,
-I'm the solo founder of **Crestvale Group**, building an AI-powered intelligence platform
-for professional service firms.
+I'm **Matt Figueroa**, a Lead Cybersecurity Engineer at **Signature Aviation**, founder of **Crestvale Group**, and former U.S. Army Black Hawk crew chief.
 
-No degree. No certs. Six years as a **15T Black Hawk crew chief** in the U.S. Army, then
-a security career built entirely on demonstrated competence. That's the whole thesis of my
-book, *No-Rank Needed* — you don't need a title to earn the work.
+My career started in military aviation, evolved into enterprise cybersecurity, and now extends into AI-native applications, autonomous systems, and creative technology.
 
-This is my personal lab: where I store, break, and rebuild the things I'm working on.
+I like building things that solve real problems. Sometimes that's security automation. Sometimes it's an AI agent, a self-hosted service, or an experimental video game.
+
+The common thread is curiosity, ownership, and a willingness to learn by doing.
+
+**My philosophy:** Build first. Learn constantly. Let the work speak.
 
 ---
 
-```bash
-$ git log --oneline --reverse the_arc
-```
+## `> cat current_focus.md`
 
-```
-●  2010   ENLISTED          15T Black Hawk Crew Chief, U.S. Army
-│                           Korea (1st Inf. Div.) → Afghanistan deployment
-│
-●  2016   PIVOT             Separated. No degree, no roadmap — just reps.
-│                           Taught myself security one problem at a time.
-│
-●  2017   BROKE IN          First security role at BBA Aviation. One year
-│                           from separation to InfoSec — on competence alone.
-│
-●  2020   CLIMBED           Rendition InfoSec (forensics) → SeaWorld Sr.
-│                           Engineer. Built SOCs, cut $448K in tooling.
-│
-●  2025   SHIPPED           Published "No-Rank Needed." Founded Crestvale Group.
-│
-●  2026   NOW               Lead Cybersecurity Engineer, 200+ global sites.
-▼                           Building Crestvale. Still no rank needed.
+### Artificial Intelligence & Agentic Systems
+
+Exploring the next generation of software where AI moves beyond answering questions and begins executing workflows, collaborating with other agents, and interacting with real systems.
+
+Areas of interest:
+- Agentic AI and multi-agent orchestration
+- Large language models and local inference
+- Autonomous workflows and AI-assisted development
+- AI-native applications and simulations
+- Model security, governance, and responsible deployment
+
+### Cybersecurity & Security Engineering
+
+I work across enterprise security engineering, with an emphasis on protecting systems while enabling innovation.
+
+Areas of expertise:
+- Security operations and incident response
+- AI security and application security
+- Identity, access management, and Zero Trust
+- Vulnerability management and security automation
+- Detection engineering and threat analysis
+- Cloud and enterprise security architecture
+
+### Creative Technology & Entrepreneurship
+
+Through **Crestvale Group**, I'm exploring the intersection of technology, original content, digital experiences, and scalable businesses.
+
+I'm especially interested in how AI and automation can help small teams create and operate things that previously required much larger organizations.
+
+### Homelab & Infrastructure
+
+I learn best by building and testing systems.
+
+My lab interests include:
+- Self-hosted infrastructure and private services
+- Local AI models and inference
+- Networking, storage, and virtualization
+- macOS and Linux automation
+- Workflow integrations and APIs
+
+---
+
+## `> ls ./projects`
+
+### 🎮 [Rock Bottom RPG](https://github.com/MathewFigueroa/rockbottom-rpg)
+
+**An AI-native role-playing game built around emergent storytelling.**
+
+An experimental project exploring what happens when characters have autonomous behavior, evolving motivations, and persistent storylines.
+
+The goal is to create a world where the player can become a spectator to an unfolding narrative rather than controlling every decision.
+
+`AI` `Autonomous Agents` `Simulation` `Storytelling`
+
+---
+
+### 🧪 The Lab
+
+My GitHub is also a workspace for experiments, prototypes, automation, and ideas I'm actively developing.
+
+Current areas of exploration:
+
+- AI-powered applications and development workflows
+- Agent orchestration and automation
+- Personal infrastructure and self-hosted tools
+- Security utilities and workflow improvements
+- Creative software and interactive experiences
+
+*More projects will be featured as they become publicly available.*
+
+---
+
+## `> ./crestvale --about`
+
+### Crestvale Group
+
+**Technology. Creativity. Execution.**
+
+[Crestvale](https://crestvale.io) is my independent venture focused on developing useful technology, original content, and digital experiences.
+
+What began as an experiment in AI-powered information delivery has evolved into a broader exploration of creative production, software, and entrepreneurship.
+
+I'm interested in building systems and businesses that combine human creativity with the leverage of modern technology.
+
+**Explore:** [crestvale.io](https://crestvale.io)
+
+---
+
+## `> ./toolkit --list`
+
+| Domain | Technologies & Focus |
+| :--- | :--- |
+| **AI Engineering** | LLMs, AI Agents, Local Inference, Agentic Workflows |
+| **Cybersecurity** | AppSec, AI Security, SOC, Incident Response, Zero Trust |
+| **Security Platforms** | Microsoft Defender XDR, Zscaler, Splunk, Tenable, Delinea |
+| **Identity & Cloud** | Microsoft Entra ID, Azure, Intune, Cloudflare |
+| **Development** | Python, PowerShell, JavaScript, Git, APIs |
+| **Infrastructure** | Docker, Linux, macOS, Networking, Self-Hosting |
+| **Automation** | Workflow Orchestration, Security Automation, AI-Assisted Development |
+
+*Tools change. The ability to understand systems and solve problems matters more.*
+
+---
+
+## `> git log --oneline career`
+
+```text
+2010  ENLISTED
+      U.S. Army, UH-60 Black Hawk Crew Chief
+
+2013  DEPLOYED
+      Afghanistan, Operation Enduring Freedom
+
+2016  TRANSITIONED
+      Left military service and pursued technology
+
+2017  ENTERED CYBERSECURITY
+      Began building a career in information security
+
+2020  ADVANCED
+      Enterprise security engineering and operations
+
+2025  FOUNDED CRESTVALE
+      Entrepreneurship, AI, and digital ventures
+
+2026  BUILDING
+      Lead Cybersecurity Engineer
+      AI-native software, creative technology,
+      and independent ventures
 ```
 
 ---
 
-```bash
-$ ./impact --by-the-numbers
-```
+## `> cat principles.txt`
 
-```
-  ↓ 40–60%   mean time to containment, high-severity incidents
-  ↓ $1–3M    estimated annual cyber & incident risk reduction
-  ↓ 3 yrs    consecutive cyber-insurance premium reductions
-  ↓ $448K    eliminated in redundant security tooling (SeaWorld)
-  ⚡ 200+     global aviation sites under active security ops
-```
+**Learn by building.**  
+Real understanding comes from doing the work.
 
----
+**Question assumptions.**  
+The way something has always been done isn't necessarily the best way.
 
-```bash
-$ ./stack --list
-```
+**Automate what repeats.**  
+Human attention should be spent where it creates the most value.
 
-**Security & Ops**
-<p>
-  <img src="https://img.shields.io/badge/Threat_Intel-0A0E1A?style=for-the-badge&logo=hackthebox&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Incident_Response-0A0E1A?style=for-the-badge&logo=tryhackme&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/ReliaQuest_MDR-0A0E1A?style=for-the-badge&logo=datadog&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Tenable_One-0A0E1A?style=for-the-badge&logo=tryhackme&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Delinea_PAM-0A0E1A?style=for-the-badge&logo=keeper&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Splunk-0A0E1A?style=for-the-badge&logo=splunk&logoColor=00C9A7" />
-</p>
+**Security should enable progress.**  
+Good engineering balances protection, usability, and innovation.
 
-**Identity & Access**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0A0E1A?style=for-the-badge&logo=microsoftazure&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/ADFS-0A0E1A?style=for-the-badge&logo=microsoft&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Zero_Trust-0A0E1A?style=for-the-badge&logo=cloudflare&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Digital_Risk_Protection-0A0E1A?style=for-the-badge&logo=cloudflare&logoColor=00C9A7" />
-</p>
-
-**Build & Automate**
-<p>
-  <img src="https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/n8n-0A0E1A?style=for-the-badge&logo=n8n&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/PowerShell-0A0E1A?style=for-the-badge&logo=powershell&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Cloudflare-0A0E1A?style=for-the-badge&logo=cloudflare&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=00C9A7" />
-</p>
-
-**Platform**
-<p>
-  <img src="https://img.shields.io/badge/macOS-0A0E1A?style=for-the-badge&logo=apple&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Linux-0A0E1A?style=for-the-badge&logo=linux&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Git-0A0E1A?style=for-the-badge&logo=git&logoColor=00C9A7" />
-  <img src="https://img.shields.io/badge/Microsoft_365-0A0E1A?style=for-the-badge&logo=microsoft365&logoColor=00C9A7" />
-</p>
+**Stay curious.**  
+The most interesting opportunities often sit outside your current discipline.
 
 ---
 
-```bash
-$ ./crestvale --status
-```
+## `> cat no_rank_needed.md`
 
-**Crestvale Group** — AI-powered intelligence for professional service firms.
+### No-Rank Needed
 
-> The flagship is **Crestvale Newsroom**: an automated intelligence engine that turns raw
-> source data into daily, client-branded deliverables — executive newsletters, podcast
-> scripts, and social content — shipped on autopilot. Built and operated solo, end to end:
-> signal over noise, automation where it compounds.
+I spent six years serving in the U.S. Army before building a cybersecurity career without following the traditional academic path.
 
-`status: live · daily editions shipping · v-next in progress`
+That experience helped shape *No-Rank Needed*, my book about taking ownership of your development, challenging conventional expectations, and earning opportunities through demonstrated ability.
+
+You don't need permission to begin learning, building, or changing direction.
+
+[Explore the Book](https://www.amazon.com/dp/B0F9VQXHWT)
 
 ---
 
-```bash
-$ uptime --current
-```
+## `> ./connect`
 
-- 🛡️  Security ops for a **200+ location** global FBO network
-- 🚀  Building **Crestvale** — solo founder, full stack, full pipeline
-- 🧠  Teaching a biweekly **AI TechTalk** series to fellow engineers
-- ✍️  Author of *No-Rank Needed* — building a respected career without rank or a degree
-- 🔧  Always in the homelab: automation pipelines, AI tooling, the occasional teardown
+I'm interested in connecting with people working on:
+
+- AI-native applications and autonomous systems
+- AI security and practical security engineering
+- Open-source tools and developer productivity
+- Creative technology, media, and digital experiences
+- Interesting problems that don't fit neatly into one category
+
+**Website:** [crestvale.io](https://crestvale.io)  
+**LinkedIn:** [linkedin.com/in/mathewfigueroa](https://www.linkedin.com/in/mathewfigueroa)  
+**GitHub:** [github.com/MathewFigueroa](https://github.com/MathewFigueroa)
 
 ---
 
 <div align="center">
 
-```
-  6 yrs served  ·  200+ sites secured  ·  1 book shipped  ·  0 degrees required
-```
+### Always experimenting. Always building.
 
-</div>
+`SECURITY` · `ARTIFICIAL INTELLIGENCE` · `ENGINEERING` · `CREATIVITY`
 
----
-
-<div align="center">
-
-```bash
-$ ./connect
-```
-
-[![Website](https://img.shields.io/badge/crestvale.io-0A0E1A?style=for-the-badge&logo=googlechrome&logoColor=00C9A7)](https://crestvale.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00C9A7)](https://www.linkedin.com/in/mathewfigueroa)
-[![Book](https://img.shields.io/badge/No--Rank_Needed-0A0E1A?style=for-the-badge&logo=amazon&logoColor=00C9A7)](https://www.amazon.com/dp/B0F9VQXHWT)
-
-<sub><i>"No rank needed."</i></sub>
+*From Black Hawk helicopters to intelligent systems.*
 
 </div>
