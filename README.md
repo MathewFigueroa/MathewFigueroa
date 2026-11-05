@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matt Figueroa
+# Matthew Figueroa
 
 ### Security Engineer · AI Builder · Founder
 
@@ -18,7 +18,7 @@
 
 ## `> whoami`
 
-I'm **Matt Figueroa**, a Lead Cybersecurity Engineer at **Signature Aviation**, founder of **Crestvale Group**, and former U.S. Army Black Hawk crew chief.
+I'm **Matthew Figueroa**, a Lead Cybersecurity Engineer at **Signature Aviation**, founder of **Crestvale Group**, and former U.S. Army Black Hawk crew chief.
 
 My career started in military aviation, evolved into enterprise cybersecurity, and now extends into AI-native applications, autonomous systems, and creative technology.
 
